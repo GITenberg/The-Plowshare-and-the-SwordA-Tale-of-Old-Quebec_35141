@@ -1,0 +1,27 @@
+_repo: The-Plowshare-and-the-SwordA-Tale-of-Old-Quebec_35141
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35141-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Trevena, John
+    alias: Henham, Ernest G. (Ernest George)
+    birthdate: 1870
+    gutenberg_agent_id: '37074'
+    url: http://www.gutenberg.org/2009/agents/37074
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_George_Henham
+description: ''
+gutenberg_issued: '2011-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
+title: 'The Plowshare and the Sword: A Tale of Old Quebec'
+url: http://www.gutenberg.org/ebooks/35141
