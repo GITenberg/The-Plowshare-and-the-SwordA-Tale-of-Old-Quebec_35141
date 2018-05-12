@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37074
     wikipedia: http://en.wikipedia.org/wiki/Ernest_George_Henham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35141#The-Plowshare-and-the-SwordA-Tale-of-Old-Quebec
 gutenberg_issued: '2011-02-22'
 gutenberg_type: Text
 identifiers:
